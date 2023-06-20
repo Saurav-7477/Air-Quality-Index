@@ -17,16 +17,16 @@ The script generates line plots to visualize the average PM2.5 values over time 
 
 # Dependencies
 The following Python libraries are required to run the scripts:
-os
-time
-sys
-requests
-pandas
-numpy
-matplotlib
-seaborn
-BeautifulSoup
-csv
+### os
+### time
+### sys
+### requests
+### pandas
+### numpy
+### matplotlib
+### seaborn
+### BeautifulSoup
+### csv
 
 
 ## Please make sure to install the dependencies before running the scripts.
